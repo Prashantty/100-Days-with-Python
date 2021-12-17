@@ -1,4 +1,4 @@
-#sttring manupulation
+#f-string
 
 score=20
 height=5.7
