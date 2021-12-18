@@ -3,7 +3,7 @@
 height=input("Enter the height")
 weight=input("Enter the weight")
 
-bmi=float(height)/float(weight)**2
+bmi=float(weight)/float(height)**2
 bmi1=float(bmi)
 print("our bmi calculator is :::")
 print(bmi1)
