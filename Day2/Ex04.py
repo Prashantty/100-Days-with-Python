@@ -1,7 +1,7 @@
 #bmi calculator
 
-height=input("Enter the height")
-weight=input("Enter the weight")
+height=input("Enter the height  m\n")
+weight=input("Enter the weight kg \n")
 
 bmi=float(weight)/float(height)**2
 bmi1=float(bmi)
